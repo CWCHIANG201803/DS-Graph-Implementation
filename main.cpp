@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
 	ifstream infile;
-	infile.open("./data/graph_source3.txt");
+	infile.open("./InputData/graph_source3.txt");
 	// graphData is a 2-D vector
 	vector<vector<int>> graphData;
 	// use stringstream
