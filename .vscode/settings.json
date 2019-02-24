@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.fontSize": 24,
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    }
+}
